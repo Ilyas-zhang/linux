@@ -196,3 +196,8 @@ sphinx_*/
 
 # bc language scripts (not LLVM bitcode)
 !kernel/time/timeconst.bc
+
+# Local development files
+docx/
+linux.code-workspace
+qemu-test/
